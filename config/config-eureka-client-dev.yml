@@ -4,13 +4,13 @@ data:
     username: eureka-client-user
     password: 1291029102
 
-# ·şÎñÆ÷ÅäÖÃ
+# æœåŠ¡å™¨é…ç½®
 server:
   port: 18080
   tomcat:
     uri-encoding: utf-8
 
-#springÅäÖÃ
+#springé…ç½®
 spring:
   application:
     name: thymeleaf
